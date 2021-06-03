@@ -91,6 +91,24 @@ class FavouriteFragment : Fragment() {
                 "de espacios diferentes, por eso hemos preparado  una agenda llena de actividades y diversión " +
                 "al aire libre para que vivas los mejores momentos en el bosque en compañía de tus seres queridos" +
                 ". ", R.drawable.star_favorite, R.drawable.china, R.drawable.star_favorite))
+        listData.add(MailModel("IoT medellín", "Oye ¿Qué significa la cocina para ti?\n" +
+                "Durante este año he recibido miles de comentarios de personas que la cocina se les ha " +
+                "convertido en un completo dolor de cabeza ya que nuestra rutina cambió completamente. " +
+                "Eres tú de los que: ¿Te estresas por la cocina? ¿Te quita mucho tiempo? ¿Cocinas simplemente " +
+                "porque tienes que comer o alimentar a tu familia? ¿Estás en modo automático cocinando todas " +
+                "las semanas lo mismo?", R.drawable.star_favorite, R.drawable.portugal, R.drawable.star_favorite))
+        listData.add(MailModel("Territorium", "Empieza el mes con mucha diversión al aire libre en el Parque Arví\n +" +
+                "¡Hola Carlos! \n" +
+                "Muchos encuentran en la naturaleza un escape a la rutina, salir de la monotonía y disfrutar " +
+                "de espacios diferentes, por eso hemos preparado  una agenda llena de actividades y diversión " +
+                "al aire libre para que vivas los mejores momentos en el bosque en compañía de tus seres queridos" +
+                ". ", R.drawable.star_favorite, R.drawable.russia, R.drawable.star_favorite))
+        listData.add(MailModel("Territorium", "Oye ¿Qué significa la cocina para ti?\n" +
+                "Durante este año he recibido miles de comentarios de personas que la cocina se les ha " +
+                "convertido en un completo dolor de cabeza ya que nuestra rutina cambió completamente. " +
+                "Eres tú de los que: ¿Te estresas por la cocina? ¿Te quita mucho tiempo? ¿Cocinas simplemente " +
+                "porque tienes que comer o alimentar a tu familia? ¿Estás en modo automático cocinando todas " +
+                "las semanas lo mismo?", R.drawable.star_favorite, R.drawable.sweden, R.drawable.star_favorite))
     }
 
     companion object {
